@@ -1,6 +1,6 @@
 # Complete-Blog_Application-using-React-and-SpringBoot
 
-Here Some ScreenShots That disclose Thet GUI!
+Here Some Screen-Shots That Disclose GUI !
 
 # Login and Registration:-
 
