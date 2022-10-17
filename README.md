@@ -12,13 +12,13 @@ Here Some Screen-Shots That Disclose GUI !
 
 # Home Page and Category Wise Sorting: -
 
- Home
+ Home (Some Sample Post created while Development)
 ![BlogApp_Home](https://user-images.githubusercontent.com/55124298/196114611-2088945c-6cda-4c45-9716-a2bfe8cd080a.png)
 
- Category Wise Post
+ Category Wise Post (Some Sample Post created while Development)
 ![Java Category](https://user-images.githubusercontent.com/55124298/196114832-6092e45d-feaf-4dc3-8310-e0f954f3ad52.png)
 
- No Post For Perticular Category
+ No Post For Perticular Category 
 ![No Post For an Perticular Category](https://user-images.githubusercontent.com/55124298/196114858-70c86f28-d146-4421-983f-adb29551be71.png)
 
 # Create Post Form, MyPosts and MyComments:-
